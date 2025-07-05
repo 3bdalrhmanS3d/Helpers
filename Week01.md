@@ -1,6 +1,6 @@
 # Helpers Assiut Summer Camp II
 
-![alt text](FacebookCoverPhoto1.PNG)
+![alt text](cover.PNG)
 
 ## 📅 Week 1 Content — C#.NET Basics
 
