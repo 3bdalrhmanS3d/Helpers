@@ -57,7 +57,7 @@
   📁 [Download Materials (Only Notes)](https://mega.nz/folder/xloG0QBS#j62N76mrxEBIe691FOH1Cg/folder/l0p3yQjb)
 
 - **V3: Debugging in C#**  
-  🐞 [Watch Debugging Tutorial](https://youtu.be/KM7oJW_XW8I?si=lZQP50mAgLKBS9NC)
+  🐞 [Watch Debugging Tutorial.](https://youtu.be/KM7oJW_XW8I?si=lZQP50mAgLKBS9NC)
 
 ---
 
