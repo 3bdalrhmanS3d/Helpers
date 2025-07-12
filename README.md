@@ -1,6 +1,6 @@
 # Helpers Assuit Community
 
-[![Helpers Assuit Community](photo/cover.png)](https://www.facebook.com/share/1AW6CKZv3B/)
+[![Helpers Assuit Community](Photo/cover.PNG)](https://www.facebook.com/share/1AW6CKZv3B/)
 
 
 ## 📬 تواصل معنا
