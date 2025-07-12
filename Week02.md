@@ -1,6 +1,6 @@
 # Helpers Assiut Summer Camp II
 
-![Week2Photo](Photo\Week2Photo.jpg)
+![Week2Photo](Photo/Week2Photo.jpg)
 
 ## 📅 Week 2 Content — C#.NET Basics & Exception Handling
 
