@@ -2,7 +2,7 @@
 
 ## 📅 Week 1 Content — C#.NET Basics
 
-![Week3Cover](photo//p1.jpg)
+![Week3Cover](photo/p1.jpg)
 
 ### 📚 Main Course
 
@@ -59,7 +59,7 @@
 - **V3: Debugging in C#**  
   🐞 [Watch Debugging Tutorial.](https://youtu.be/KM7oJW_XW8I?si=lZQP50mAgLKBS9NC)
 
-![Week2Photo](photo//p2.jpg)
+![Week2Photo](photo/p2.jpg)
 
 ---
 
