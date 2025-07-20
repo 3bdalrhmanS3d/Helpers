@@ -3,6 +3,7 @@
 ![Week2Photo](Photo/Week2Photo.jpg)
 
 ## 📅 Week 2 Content — C#.NET Basics & Exception Handling
+![Week3Cover](photo/p1.jpg)
 
 ### 📚 Main Course
 
@@ -64,6 +65,8 @@
 * 10:00 History of Git
 * 04:49:06 Introduction to GitHub
 * 04:53:30 Basic GitHub Repo Operations
+
+![Week2Photo](photo/p2.jpg)
 
 ---
 > 🔔 *Make sure to review all resources before the next session.*
