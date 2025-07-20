@@ -1,6 +1,7 @@
 # Helpers Assiut Summer Camp II
 
 ## 📅 Week 2 Content — C#.NET Basics & Exception Handling
+
 ![Week3Cover](Photo/p1.jpg)
 
 ### 📚 Main Course

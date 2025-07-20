@@ -2,7 +2,7 @@
 
 [![Helpers Assiut Community](Photo/cover.PNG)](https://www.facebook.com/share/1AW6CKZv3B/)
 
-## 🎯 About The Camp - عن المخيم
+## 🎯 About The Camp
 
 **Helpers Assiut Summer Camp II**
 This comprehensive programming camp teaches C# and .NET fundamentals from scratch to advanced levels, designed for beginners and intermediate learners who want to build a strong foundation in object-oriented programming and application development.

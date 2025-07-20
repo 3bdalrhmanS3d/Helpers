@@ -1,7 +1,7 @@
 # Helpers Assiut Summer Camp II
 
-![Week3Photo](photo/photoweek03.jpg)
-![Week3Cover](photo/p1.jpg)
+![Week3Photo](Photo/photoweek03.jpg)
+![Week3Cover](Photo/p1.jpg)
 
 ## 📅 Week 3 Content — File Handling & Object Oriented Programming (OOP)
 
@@ -120,7 +120,7 @@
  
 > **Tasks are located in the Labs folder within each Drive link**
 
-![Week2Photo](photo/p2.jpg)
+![Week2Photo](Photo/p2.jpg)
 
 ---
 
