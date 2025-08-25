@@ -5,7 +5,7 @@
 ## 🎯 About The Camp
 
 **Helpers Assiut Summer Camp II**
-This comprehensive programming camp teaches C# and .NET fundamentals from scratch to advanced levels, designed for beginners and intermediate learners who want to build a strong foundation in object-oriented programming and application development.
+This comprehensive programming camp teaches C# and .NET fundamentals from scratch to advanced levels, designed for beginners and intermediate learners who want to build a strong foundation in object-oriented programming, database systems, and application development.
 
 ![Helpers Assiut Community](Photo/EusiZ7rWYAEvOlr.jpg)
 
@@ -13,31 +13,52 @@ This comprehensive programming camp teaches C# and .NET fundamentals from scratc
 
 ## 📚 Camp Content
 
-### 📅 **Week 1: C#.NET Basics**
+### 📅 **Week 1: C#.NET Foundation**
 
 - Basic Structure of C# Programs
 - Console Class Methods and Properties
 - Data Types, Variables & Operators
-- Control Flow Statements
+- Control Flow Statements (If-Else, Switch, Loops)
 - Functions and User Input/Output
+- Command Line Arguments
 - **Materials**: [Week01.md](Week01.md)
 
-### 📅 **Week 2: Advanced Basics & Collections**
+### 📅 **Week 2: Advanced Basics & Exception Handling**
 
-- String Handling & Memory Management
-- Exception Handling (Try-Catch-Finally)
+- String Handling & Memory Management (Stack vs Heap)
+- Exception Handling (Try-Catch-Finally, Multiple Catch Blocks)
 - Arrays and 2D Arrays
 - Collections and ArrayList
 - **Version Control with Git/GitHub**
 - **Materials**: [Week02.md](Week02.md)
 
-### 📅 **Week 3: File Handling & OOP Fundamentals**
+### 📅 **Week 3: Structs, Constructors & Properties**
 
-- File Handling in C#
-- StreamReader and StreamWriter
-- Object Oriented Programming (OOP) Concepts
-- Classes, Objects, and Constructors
+- Functions Review & Parameter Passing
+- Pass by Value vs Pass by Reference
+- Structs and Constructors
+- Enums and Arrays
+- Properties in C#
 - **Materials**: [Week03.md](Week03.md)
+
+### 📅 **Week 5: OOP Fundamentals & Database Basics**
+
+- Object-Oriented Programming Day 1
+- Classes, Objects, and Encapsulation
+- Access Modifiers & Constructors
+- Method Overloading & Static Members
+- **Database Fundamentals & DBMS Types**
+- **Materials**: [Week05.md](Week05.md)
+
+### 📅 **Week 6: Advanced OOP & Database Systems**
+
+- Object-Oriented Programming Day 2
+- Inheritance, Polymorphism & Abstract Classes
+- Interfaces and Method Overriding
+- **SQL Introduction & Database Design**
+- **Entity Relationship Diagrams (ERD)**
+- **File-Based vs Database Systems**
+- **Materials**: [Week06.md](Week06.md)
 
 ---
 
@@ -49,6 +70,8 @@ This comprehensive programming camp teaches C# and .NET fundamentals from scratc
 ├── 📄 Week01.md
 ├── 📄 Week02.md  
 ├── 📄 Week03.md
+├── 📄 Week05.md
+├── 📄 Week06.md
 ├── 📂 Photo/
 └── 📂 Code Examples/ (Coming Soon)
 ```
@@ -65,14 +88,16 @@ This comprehensive programming camp teaches C# and .NET fundamentals from scratc
    ```
 
 2. **📖 Follow Weekly Content:**
-   - Start with Week01.md
-   - Complete all exercises and tasks
-   - Move to next week after finishing current week
+   - Start with Week01.md for C# fundamentals
+   - Progress through Week02.md for advanced basics
+   - Continue with Week03.md for structs and properties
+   - Jump to Week05.md for OOP concepts
+   - Complete with Week06.md for advanced OOP and databases
 
 3. **💻 Practice Coding:**
    - Set up Visual Studio
    - Follow along with video sessions
-   - Complete lab exercises
+   - Complete lab exercises and practical tasks
 
 4. **📤 Submit Tasks:**
    - Complete mandatory tasks from video sessions
@@ -80,16 +105,70 @@ This comprehensive programming camp teaches C# and .NET fundamentals from scratc
 
 ---
 
-## 🏆 Learning Outcomes 
+## 🏆 Learning Path & Outcomes 
 
-By the end of this camp, you will be able to:
+### **Phase 1: C# Fundamentals (Weeks 1-3)**
+By completing the first phase, you will master:
+- ✅ C# syntax and basic programming concepts
+- ✅ Exception handling and memory management
+- ✅ Data structures (arrays, collections)
+- ✅ Structs, constructors, and properties
+- ✅ Git version control basics
 
-- ✅ Write clean, efficient C# code
-- ✅ Understand Object-Oriented Programming principles
-- ✅ Handle files and data manipulation
-- ✅ Use Git for version control
-- ✅ Build basic C# applications
-- ✅ Apply exception handling and debugging techniques
+### **Phase 2: OOP & Database Systems (Weeks 5-6)**
+By completing the advanced phase, you will master:
+- ✅ Object-Oriented Programming principles
+- ✅ Advanced OOP concepts (Inheritance, Polymorphism)
+- ✅ Database fundamentals and SQL basics
+- ✅ Entity Relationship Diagram design
+- ✅ Database vs File system comparisons
+
+### **Overall Learning Outcomes:**
+- ✅ Write clean, efficient, and maintainable C# code
+- ✅ Apply all four pillars of Object-Oriented Programming
+- ✅ Design and work with database systems
+- ✅ Use version control systems effectively
+- ✅ Build robust C# applications with proper error handling
+- ✅ Apply industry-standard coding practices and principles
+
+---
+
+## 📊 Course Progression Map
+
+```plaintext
+Week 1: C# Basics           → Week 2: Advanced Concepts    → Week 3: Structs & Properties
+   ↓                           ↓                             ↓
+Console & Variables         Exception Handling            Functions & Constructors
+Data Types & Operators      Arrays & Collections          Enums & Properties
+Control Flow               Git/GitHub Integration         Parameter Passing
+   ↓                           ↓                             ↓
+Week 5: OOP Day 1          → Week 6: OOP Day 2 + Database Systems
+   ↓                           ↓
+Classes & Objects           Inheritance & Polymorphism
+Encapsulation              Abstract Classes & Interfaces
+Database Fundamentals      SQL & ERD Design
+```
+
+---
+
+## 🎯 Study Recommendations
+
+### **For Beginners:**
+1. **Week 1-2**: Focus on understanding basic syntax and concepts
+2. **Week 3**: Practice with structs and properties extensively
+3. **Week 5-6**: Take time to fully grasp OOP concepts before proceeding
+
+### **For Intermediate Learners:**
+1. **Weeks 1-3**: Quick review, focus on advanced topics
+2. **Weeks 5-6**: Deep dive into OOP principles and database design
+3. **Practice**: Build personal projects applying learned concepts
+
+### **For All Students:**
+- 📝 **Code Daily**: Practice writing code every day
+- 🎥 **Active Learning**: Code along with video sessions
+- 👥 **Community**: Join discussions in Telegram group
+- 📚 **Documentation**: Read official C# documentation
+- 🔄 **Review**: Regularly revisit previous week materials
 
 ---
 
@@ -103,11 +182,29 @@ By the end of this camp, you will be able to:
 
 ---
 
+## 📝 Notes for Students
+
+> **⚠️ Important:** This repository contains materials for Weeks 1, 2, 3, 5, and 6. Week 4 materials may be available separately or integrated into other weeks' content.
+
+> **💡 Study Tips:**
+> - Don't skip weeks - each builds upon previous knowledge
+> - Practice coding alongside watching videos
+> - Complete all lab exercises and assignments
+> - Join the Telegram group for peer support and discussions
+
+> **🎯 Success Factors:**
+> - Consistent daily practice
+> - Active participation in community discussions
+> - Completing all mandatory assignments
+> - Building personal projects using learned concepts
+
+---
+
 ## 🌟 Acknowledgments
 
-- **Helpers Assiut Community** for organizing this amazing camp
-- **All instructors and mentors** who contributed to the content
-- **Students and participants** who make this community vibrant
+- **Helpers Assiut Community** for organizing this comprehensive programming camp
+- **All instructors and mentors** who contributed valuable content and guidance
+- **Students and participants** who make this learning community vibrant and supportive
 
 ---
 
@@ -115,9 +212,10 @@ By the end of this camp, you will be able to:
 
 ### 💪 Ready to Start Your Programming Journey? 
 
-**[Begin with Week 1](Week01.md)** 🚀
+**[Begin with Week 1 Fundamentals](Week01.md)** 🚀
 
 ---
 
 *Made with ❤️ by Helpers Assiut Community*
+*Building the next generation of skilled developers*
 </div>
